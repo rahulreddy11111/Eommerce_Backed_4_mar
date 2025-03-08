@@ -33,4 +33,6 @@ public class Product {
     private String imageType;
     @Lob
     private byte[] imageDate;
+
+
 }

@@ -1,0 +1,5 @@
+com/telusko/ecom_proj/EcomProjApplication.class
+com/telusko/ecom_proj/model/Product.class
+com/telusko/ecom_proj/controller/ProductController.class
+com/telusko/ecom_proj/service/ProductService.class
+com/telusko/ecom_proj/repo/ProductRepo.class
